@@ -1,0 +1,6 @@
+c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\03. GetMinionsNames\bin\Debug\_03.GetMinionsNames.exe.config
+c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\03. GetMinionsNames\bin\Debug\_03.GetMinionsNames.exe
+c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\03. GetMinionsNames\bin\Debug\_03.GetMinionsNames.pdb
+c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\03. GetMinionsNames\obj\Debug\03. GetMinionsNames.csprojResolveAssemblyReference.cache
+c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\03. GetMinionsNames\obj\Debug\_03.GetMinionsNames.exe
+c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\03. GetMinionsNames\obj\Debug\_03.GetMinionsNames.pdb

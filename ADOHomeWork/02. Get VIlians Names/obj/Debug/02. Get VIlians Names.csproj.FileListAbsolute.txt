@@ -1,0 +1,6 @@
+c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\02. Get VIlians Names\bin\Debug\_02.Get_VIlians_Names.exe.config
+c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\02. Get VIlians Names\bin\Debug\_02.Get_VIlians_Names.exe
+c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\02. Get VIlians Names\bin\Debug\_02.Get_VIlians_Names.pdb
+c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\02. Get VIlians Names\obj\Debug\02. Get VIlians Names.csprojResolveAssemblyReference.cache
+c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\02. Get VIlians Names\obj\Debug\_02.Get_VIlians_Names.exe
+c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\02. Get VIlians Names\obj\Debug\_02.Get_VIlians_Names.pdb

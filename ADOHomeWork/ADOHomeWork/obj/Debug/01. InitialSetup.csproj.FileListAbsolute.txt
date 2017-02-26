@@ -1,0 +1,5 @@
+c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\ADOHomeWork\bin\Debug\ADOHomeWork.exe.config
+c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\ADOHomeWork\obj\Debug\ADOHomeWork.exe
+c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\ADOHomeWork\obj\Debug\ADOHomeWork.pdb
+c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\ADOHomeWork\bin\Debug\ADOHomeWork.exe
+c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\ADOHomeWork\bin\Debug\ADOHomeWork.pdb
