@@ -4,3 +4,9 @@ c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\02. Get VIlians
 c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\02. Get VIlians Names\obj\Debug\02. Get VIlians Names.csprojResolveAssemblyReference.cache
 c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\02. Get VIlians Names\obj\Debug\_02.Get_VIlians_Names.exe
 c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\02. Get VIlians Names\obj\Debug\_02.Get_VIlians_Names.pdb
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\02. Get VIlians Names\bin\Debug\_02.Get_VIlians_Names.exe.config
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\02. Get VIlians Names\obj\Debug\_02.Get_VIlians_Names.exe
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\02. Get VIlians Names\obj\Debug\_02.Get_VIlians_Names.pdb
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\02. Get VIlians Names\bin\Debug\_02.Get_VIlians_Names.exe
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\02. Get VIlians Names\bin\Debug\_02.Get_VIlians_Names.pdb
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\02. Get VIlians Names\obj\Debug\02. Get VIlians Names.csprojResolveAssemblyReference.cache

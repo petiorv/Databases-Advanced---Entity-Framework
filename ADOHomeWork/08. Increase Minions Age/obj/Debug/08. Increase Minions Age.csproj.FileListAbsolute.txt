@@ -1,0 +1,6 @@
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\08. Increase Minions Age\bin\Debug\_08.Increase_Minions_Age.exe.config
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\08. Increase Minions Age\obj\Debug\08. Increase Minions Age.csprojResolveAssemblyReference.cache
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\08. Increase Minions Age\bin\Debug\_08.Increase_Minions_Age.exe
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\08. Increase Minions Age\bin\Debug\_08.Increase_Minions_Age.pdb
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\08. Increase Minions Age\obj\Debug\_08.Increase_Minions_Age.exe
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\08. Increase Minions Age\obj\Debug\_08.Increase_Minions_Age.pdb

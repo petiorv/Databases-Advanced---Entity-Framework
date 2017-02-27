@@ -1,1 +1,6 @@
 c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\04. Add Minion\bin\Debug\_04.Add_Minion.exe.config
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\04. Add Minion\bin\Debug\_04.Add_Minion.exe.config
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\04. Add Minion\bin\Debug\_04.Add_Minion.exe
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\04. Add Minion\bin\Debug\_04.Add_Minion.pdb
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\04. Add Minion\obj\Debug\_04.Add_Minion.exe
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\04. Add Minion\obj\Debug\_04.Add_Minion.pdb

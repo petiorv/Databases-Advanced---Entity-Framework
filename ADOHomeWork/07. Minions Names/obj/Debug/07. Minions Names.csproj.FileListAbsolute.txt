@@ -1,0 +1,6 @@
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\07. Minions Names\bin\Debug\_07.Minions_Names.exe.config
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\07. Minions Names\bin\Debug\_07.Minions_Names.exe
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\07. Minions Names\bin\Debug\_07.Minions_Names.pdb
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\07. Minions Names\obj\Debug\07. Minions Names.csprojResolveAssemblyReference.cache
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\07. Minions Names\obj\Debug\_07.Minions_Names.exe
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\07. Minions Names\obj\Debug\_07.Minions_Names.pdb

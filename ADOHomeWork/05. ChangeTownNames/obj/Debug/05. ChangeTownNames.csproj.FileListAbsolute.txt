@@ -1,0 +1,6 @@
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\05. ChangeTownNames\bin\Debug\_05.ChangeTownNames.exe.config
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\05. ChangeTownNames\bin\Debug\_05.ChangeTownNames.exe
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\05. ChangeTownNames\bin\Debug\_05.ChangeTownNames.pdb
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\05. ChangeTownNames\obj\Debug\05. ChangeTownNames.csprojResolveAssemblyReference.cache
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\05. ChangeTownNames\obj\Debug\_05.ChangeTownNames.exe
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\05. ChangeTownNames\obj\Debug\_05.ChangeTownNames.pdb

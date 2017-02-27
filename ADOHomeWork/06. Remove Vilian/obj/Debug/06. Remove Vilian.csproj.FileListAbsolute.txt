@@ -1,0 +1,5 @@
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\06. Remove Vilian\bin\Debug\_06.Remove_Vilian.exe.config
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\06. Remove Vilian\bin\Debug\_06.Remove_Vilian.exe
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\06. Remove Vilian\bin\Debug\_06.Remove_Vilian.pdb
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\06. Remove Vilian\obj\Debug\_06.Remove_Vilian.exe
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\06. Remove Vilian\obj\Debug\_06.Remove_Vilian.pdb

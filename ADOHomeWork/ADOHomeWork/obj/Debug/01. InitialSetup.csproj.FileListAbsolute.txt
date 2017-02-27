@@ -3,3 +3,9 @@ c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\ADOHomeWork\obj
 c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\ADOHomeWork\obj\Debug\ADOHomeWork.pdb
 c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\ADOHomeWork\bin\Debug\ADOHomeWork.exe
 c:\users\petio\documents\visual studio 2015\Projects\ADOHomeWork\ADOHomeWork\bin\Debug\ADOHomeWork.pdb
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\ADOHomeWork\bin\Debug\ADOHomeWork.exe.config
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\ADOHomeWork\obj\Debug\ADOHomeWork.exe
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\ADOHomeWork\obj\Debug\ADOHomeWork.pdb
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\ADOHomeWork\bin\Debug\ADOHomeWork.exe
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\ADOHomeWork\bin\Debug\ADOHomeWork.pdb
+D:\Petio\Softuni\Databases-Advanced---Entity-Framework-master\ADOHomeWork\ADOHomeWork\obj\Debug\01. InitialSetup.csprojResolveAssemblyReference.cache
