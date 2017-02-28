@@ -1,0 +1,10 @@
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\5. Employees from Seattle\bin\Debug\_5.Employees_from_Seattle.exe.config
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\5. Employees from Seattle\bin\Debug\_5.Employees_from_Seattle.exe
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\5. Employees from Seattle\bin\Debug\_5.Employees_from_Seattle.pdb
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\5. Employees from Seattle\bin\Debug\EntityFramework.dll
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\5. Employees from Seattle\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\5. Employees from Seattle\bin\Debug\EntityFramework.xml
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\5. Employees from Seattle\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\5. Employees from Seattle\obj\Debug\5. Employees from Seattle.csprojResolveAssemblyReference.cache
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\5. Employees from Seattle\obj\Debug\_5.Employees_from_Seattle.exe
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\5. Employees from Seattle\obj\Debug\_5.Employees_from_Seattle.pdb

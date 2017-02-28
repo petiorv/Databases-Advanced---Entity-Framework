@@ -1,0 +1,12 @@
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\10. Departments with more than 5 employee\bin\Debug\_10.Departments_with_more_than_5_employee.exe.config
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\10. Departments with more than 5 employee\bin\Debug\_10.Departments_with_more_than_5_employee.exe
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\10. Departments with more than 5 employee\bin\Debug\_10.Departments_with_more_than_5_employee.pdb
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\10. Departments with more than 5 employee\bin\Debug\EntityFramework.dll
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\10. Departments with more than 5 employee\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\10. Departments with more than 5 employee\bin\Debug\Softuni.Models.dll
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\10. Departments with more than 5 employee\bin\Debug\Softuni.Models.pdb
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\10. Departments with more than 5 employee\bin\Debug\EntityFramework.xml
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\10. Departments with more than 5 employee\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\10. Departments with more than 5 employee\obj\Debug\10. Departments with more than 5 employee.csprojResolveAssemblyReference.cache
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\10. Departments with more than 5 employee\obj\Debug\_10.Departments_with_more_than_5_employee.exe
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\10. Departments with more than 5 employee\obj\Debug\_10.Departments_with_more_than_5_employee.pdb

@@ -1,0 +1,10 @@
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\6. Adding a New Address and Updating Employee\bin\Debug\_6.Adding_a_New_Address_and_Updating_Employee.exe.config
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\6. Adding a New Address and Updating Employee\bin\Debug\_6.Adding_a_New_Address_and_Updating_Employee.exe
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\6. Adding a New Address and Updating Employee\bin\Debug\_6.Adding_a_New_Address_and_Updating_Employee.pdb
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\6. Adding a New Address and Updating Employee\bin\Debug\EntityFramework.dll
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\6. Adding a New Address and Updating Employee\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\6. Adding a New Address and Updating Employee\bin\Debug\EntityFramework.xml
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\6. Adding a New Address and Updating Employee\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\6. Adding a New Address and Updating Employee\obj\Debug\_6.Adding_a_New_Address_and_Updating_Employee.exe
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\6. Adding a New Address and Updating Employee\obj\Debug\_6.Adding_a_New_Address_and_Updating_Employee.pdb
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\6. Adding a New Address and Updating Employee\obj\Debug\6. Adding a New Address and Updating Employee.csprojResolveAssemblyReference.cache

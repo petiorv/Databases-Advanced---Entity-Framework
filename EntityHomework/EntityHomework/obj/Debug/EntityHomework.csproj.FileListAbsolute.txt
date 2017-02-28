@@ -1,0 +1,10 @@
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\EntityHomework\bin\Debug\EntityHomework.exe.config
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\EntityHomework\bin\Debug\EntityHomework.exe
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\EntityHomework\bin\Debug\EntityHomework.pdb
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\EntityHomework\bin\Debug\EntityFramework.dll
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\EntityHomework\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\EntityHomework\bin\Debug\EntityFramework.xml
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\EntityHomework\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\EntityHomework\obj\Debug\EntityHomework.csprojResolveAssemblyReference.cache
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\EntityHomework\obj\Debug\EntityHomework.exe
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\EntityHomework\obj\Debug\EntityHomework.pdb

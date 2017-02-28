@@ -1,0 +1,10 @@
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\7. Find employees in period\bin\Debug\_7.Find_employees_in_period.exe.config
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\7. Find employees in period\obj\Debug\7. Find employees in period.csprojResolveAssemblyReference.cache
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\7. Find employees in period\bin\Debug\_7.Find_employees_in_period.exe
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\7. Find employees in period\bin\Debug\_7.Find_employees_in_period.pdb
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\7. Find employees in period\bin\Debug\EntityFramework.dll
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\7. Find employees in period\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\7. Find employees in period\bin\Debug\EntityFramework.xml
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\7. Find employees in period\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\7. Find employees in period\obj\Debug\_7.Find_employees_in_period.exe
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\7. Find employees in period\obj\Debug\_7.Find_employees_in_period.pdb

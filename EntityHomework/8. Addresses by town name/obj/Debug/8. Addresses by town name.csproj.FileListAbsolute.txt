@@ -1,0 +1,12 @@
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\8. Addresses by town name\bin\Debug\_8.Addresses_by_town_name.exe.config
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\8. Addresses by town name\bin\Debug\_8.Addresses_by_town_name.exe
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\8. Addresses by town name\bin\Debug\_8.Addresses_by_town_name.pdb
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\8. Addresses by town name\bin\Debug\EntityFramework.dll
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\8. Addresses by town name\bin\Debug\EntityFramework.xml
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\8. Addresses by town name\obj\Debug\8. Addresses by town name.csprojResolveAssemblyReference.cache
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\8. Addresses by town name\obj\Debug\_8.Addresses_by_town_name.exe
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\8. Addresses by town name\obj\Debug\_8.Addresses_by_town_name.pdb
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\8. Addresses by town name\bin\Debug\Softuni.Models.dll
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\8. Addresses by town name\bin\Debug\Softuni.Models.pdb
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\8. Addresses by town name\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\8. Addresses by town name\bin\Debug\EntityFramework.SqlServer.xml

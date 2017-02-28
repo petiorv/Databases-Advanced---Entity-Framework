@@ -1,0 +1,10 @@
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\Softuni.Models\bin\Debug\Softuni.Models.dll.config
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\Softuni.Models\bin\Debug\Softuni.Models.dll
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\Softuni.Models\bin\Debug\Softuni.Models.pdb
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\Softuni.Models\bin\Debug\EntityFramework.dll
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\Softuni.Models\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\Softuni.Models\bin\Debug\EntityFramework.xml
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\Softuni.Models\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\Softuni.Models\obj\Debug\Softuni.Models.csprojResolveAssemblyReference.cache
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\Softuni.Models\obj\Debug\Softuni.Models.dll
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\Softuni.Models\obj\Debug\Softuni.Models.pdb

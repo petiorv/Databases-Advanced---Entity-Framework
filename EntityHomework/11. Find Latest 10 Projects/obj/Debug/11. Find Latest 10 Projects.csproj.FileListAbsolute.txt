@@ -1,0 +1,12 @@
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\11. Find Latest 10 Projects\bin\Debug\_11.Find_Latest_10_Projects.exe.config
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\11. Find Latest 10 Projects\bin\Debug\_11.Find_Latest_10_Projects.exe
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\11. Find Latest 10 Projects\bin\Debug\_11.Find_Latest_10_Projects.pdb
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\11. Find Latest 10 Projects\bin\Debug\EntityFramework.dll
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\11. Find Latest 10 Projects\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\11. Find Latest 10 Projects\bin\Debug\Softuni.Models.dll
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\11. Find Latest 10 Projects\bin\Debug\Softuni.Models.pdb
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\11. Find Latest 10 Projects\bin\Debug\EntityFramework.xml
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\11. Find Latest 10 Projects\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\11. Find Latest 10 Projects\obj\Debug\11. Find Latest 10 Projects.csprojResolveAssemblyReference.cache
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\11. Find Latest 10 Projects\obj\Debug\_11.Find_Latest_10_Projects.exe
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\11. Find Latest 10 Projects\obj\Debug\_11.Find_Latest_10_Projects.pdb

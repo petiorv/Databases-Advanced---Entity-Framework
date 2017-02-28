@@ -1,0 +1,12 @@
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\9. Employee with id 147\bin\Debug\_9.Employee_with_id_147.exe.config
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\9. Employee with id 147\bin\Debug\_9.Employee_with_id_147.exe
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\9. Employee with id 147\bin\Debug\_9.Employee_with_id_147.pdb
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\9. Employee with id 147\bin\Debug\EntityFramework.dll
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\9. Employee with id 147\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\9. Employee with id 147\bin\Debug\Softuni.Models.dll
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\9. Employee with id 147\bin\Debug\Softuni.Models.pdb
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\9. Employee with id 147\bin\Debug\EntityFramework.xml
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\9. Employee with id 147\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\9. Employee with id 147\obj\Debug\9. Employee with id 147.csprojResolveAssemblyReference.cache
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\9. Employee with id 147\obj\Debug\_9.Employee_with_id_147.exe
+c:\users\petio\documents\visual studio 2015\Projects\EntityHomework\9. Employee with id 147\obj\Debug\_9.Employee_with_id_147.pdb
