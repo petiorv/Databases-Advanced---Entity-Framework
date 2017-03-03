@@ -1,0 +1,9 @@
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\14. First Letter\bin\Debug\_14.First_Letter.exe.config
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\14. First Letter\bin\Debug\_14.First_Letter.exe
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\14. First Letter\bin\Debug\_14.First_Letter.pdb
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\14. First Letter\bin\Debug\EntityFramework.dll
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\14. First Letter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\14. First Letter\bin\Debug\EntityFramework.xml
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\14. First Letter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\14. First Letter\obj\Debug\_14.First_Letter.exe
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\14. First Letter\obj\Debug\_14.First_Letter.pdb

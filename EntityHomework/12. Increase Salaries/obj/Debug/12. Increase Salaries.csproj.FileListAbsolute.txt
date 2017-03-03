@@ -1,0 +1,10 @@
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\12. Increase Salaries\bin\Debug\_12.Increase_Salaries.exe.config
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\12. Increase Salaries\bin\Debug\_12.Increase_Salaries.exe
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\12. Increase Salaries\bin\Debug\_12.Increase_Salaries.pdb
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\12. Increase Salaries\bin\Debug\EntityFramework.dll
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\12. Increase Salaries\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\12. Increase Salaries\bin\Debug\EntityFramework.xml
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\12. Increase Salaries\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\12. Increase Salaries\obj\Debug\12. Increase Salaries.csprojResolveAssemblyReference.cache
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\12. Increase Salaries\obj\Debug\_12.Increase_Salaries.exe
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\12. Increase Salaries\obj\Debug\_12.Increase_Salaries.pdb

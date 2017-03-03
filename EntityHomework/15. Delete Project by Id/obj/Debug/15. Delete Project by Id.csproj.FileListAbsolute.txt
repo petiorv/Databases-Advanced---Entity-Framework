@@ -1,0 +1,9 @@
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\15. Delete Project by Id\bin\Debug\_15.Delete_Project_by_Id.exe.config
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\15. Delete Project by Id\bin\Debug\_15.Delete_Project_by_Id.exe
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\15. Delete Project by Id\bin\Debug\_15.Delete_Project_by_Id.pdb
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\15. Delete Project by Id\bin\Debug\EntityFramework.dll
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\15. Delete Project by Id\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\15. Delete Project by Id\bin\Debug\EntityFramework.xml
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\15. Delete Project by Id\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\15. Delete Project by Id\obj\Debug\_15.Delete_Project_by_Id.exe
+C:\Users\Petio\documents\visual studio 2015\Projects\EntityHomework\15. Delete Project by Id\obj\Debug\_15.Delete_Project_by_Id.pdb
