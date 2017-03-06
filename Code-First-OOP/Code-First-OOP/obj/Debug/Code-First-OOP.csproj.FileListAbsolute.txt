@@ -1,0 +1,6 @@
+c:\users\petio\documents\visual studio 2015\Projects\Code-First-OOP\Code-First-OOP\bin\Debug\Code-First-OOP.exe.config
+c:\users\petio\documents\visual studio 2015\Projects\Code-First-OOP\Code-First-OOP\bin\Debug\Code-First-OOP.exe
+c:\users\petio\documents\visual studio 2015\Projects\Code-First-OOP\Code-First-OOP\bin\Debug\Code-First-OOP.pdb
+c:\users\petio\documents\visual studio 2015\Projects\Code-First-OOP\Code-First-OOP\obj\Debug\Code-First-OOP.csprojResolveAssemblyReference.cache
+c:\users\petio\documents\visual studio 2015\Projects\Code-First-OOP\Code-First-OOP\obj\Debug\Code-First-OOP.exe
+c:\users\petio\documents\visual studio 2015\Projects\Code-First-OOP\Code-First-OOP\obj\Debug\Code-First-OOP.pdb

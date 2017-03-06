@@ -1,0 +1,6 @@
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\Code-First-OOP\04. Students\bin\Debug\_04.Students.exe.config
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\Code-First-OOP\04. Students\bin\Debug\_04.Students.exe
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\Code-First-OOP\04. Students\bin\Debug\_04.Students.pdb
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\Code-First-OOP\04. Students\obj\Debug\04. Students.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\Code-First-OOP\04. Students\obj\Debug\_04.Students.exe
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\Code-First-OOP\04. Students\obj\Debug\_04.Students.pdb

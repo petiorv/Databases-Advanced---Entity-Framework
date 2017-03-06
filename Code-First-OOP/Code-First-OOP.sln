@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-2 Persons", "Code-First-OOP\1-2 Persons.csproj", "{B792072D-C048-4184-810C-18541523D017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Family", "03. Family\03. Family.csproj", "{B13768B0-8DB7-4ACA-B9E2-4B22AB407185}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Students", "04. Students\04. Students.csproj", "{A24F6593-699E-4A28-AE79-49CA86B6BC5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Planck Constant", "05. Planck Constant\05. Planck Constant.csproj", "{1A544019-1988-4738-BA65-24A2213AAC74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B792072D-C048-4184-810C-18541523D017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B792072D-C048-4184-810C-18541523D017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B792072D-C048-4184-810C-18541523D017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B792072D-C048-4184-810C-18541523D017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B13768B0-8DB7-4ACA-B9E2-4B22AB407185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B13768B0-8DB7-4ACA-B9E2-4B22AB407185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B13768B0-8DB7-4ACA-B9E2-4B22AB407185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B13768B0-8DB7-4ACA-B9E2-4B22AB407185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A24F6593-699E-4A28-AE79-49CA86B6BC5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24F6593-699E-4A28-AE79-49CA86B6BC5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24F6593-699E-4A28-AE79-49CA86B6BC5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24F6593-699E-4A28-AE79-49CA86B6BC5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A544019-1988-4738-BA65-24A2213AAC74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A544019-1988-4738-BA65-24A2213AAC74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A544019-1988-4738-BA65-24A2213AAC74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A544019-1988-4738-BA65-24A2213AAC74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\Code-First-OOP\Code-First-OOP\bin\Debug\Code-First-OOP.exe.config
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\Code-First-OOP\Code-First-OOP\obj\Debug\Code-First-OOP.exe
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\Code-First-OOP\Code-First-OOP\obj\Debug\Code-First-OOP.pdb
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\Code-First-OOP\Code-First-OOP\bin\Debug\Code-First-OOP.exe
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\Code-First-OOP\Code-First-OOP\bin\Debug\Code-First-OOP.pdb
