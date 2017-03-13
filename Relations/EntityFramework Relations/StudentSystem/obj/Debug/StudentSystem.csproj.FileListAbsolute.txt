@@ -13,3 +13,18 @@ c:\users\petio\documents\visual studio 2015\Projects\EntityFramework Relations\S
 c:\users\petio\documents\visual studio 2015\Projects\EntityFramework Relations\StudentSystem\obj\Debug\StudentSystem.Migrations.Enums.resources
 c:\users\petio\documents\visual studio 2015\Projects\EntityFramework Relations\StudentSystem\obj\Debug\StudentSystem.Migrations.MigrateDatabaseToLatestVersion.resources
 c:\users\petio\documents\visual studio 2015\Projects\EntityFramework Relations\StudentSystem\obj\Debug\StudentSystem.Migrations.AddLicense.resources
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\StudentSystem\bin\Debug\StudentSystem.exe.config
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\StudentSystem\obj\Debug\StudentSystem.exe
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\StudentSystem\obj\Debug\StudentSystem.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\StudentSystem\bin\Debug\StudentSystem.exe
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\StudentSystem\bin\Debug\StudentSystem.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\StudentSystem\bin\Debug\EntityFramework.dll
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\StudentSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\StudentSystem\bin\Debug\EntityFramework.xml
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\StudentSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\StudentSystem\obj\Debug\StudentSystem.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\StudentSystem\obj\Debug\StudentSystem.Migrations.InitialCreate.resources
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\StudentSystem\obj\Debug\StudentSystem.Migrations.Enums.resources
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\StudentSystem\obj\Debug\StudentSystem.Migrations.MigrateDatabaseToLatestVersion.resources
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\StudentSystem\obj\Debug\StudentSystem.Migrations.AddLicense.resources
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\StudentSystem\obj\Debug\StudentSystem.csproj.GenerateResource.Cache

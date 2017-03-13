@@ -14,5 +14,7 @@ namespace Photographers.Models
         public string Email { get; set; }
         public DateTime RegisterDate { get; set; }
         public DateTime Birthdate { get; set; }
+        public List<Album> Albums { get; set; }
+        
     }
 }

@@ -7,3 +7,19 @@ c:\users\petio\documents\visual studio 2015\Projects\EntityFramework Relations\P
 c:\users\petio\documents\visual studio 2015\Projects\EntityFramework Relations\Photographers\bin\Debug\EntityFramework.SqlServer.xml
 c:\users\petio\documents\visual studio 2015\Projects\EntityFramework Relations\Photographers\obj\Debug\Photographers.exe
 c:\users\petio\documents\visual studio 2015\Projects\EntityFramework Relations\Photographers\obj\Debug\Photographers.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\Photographers\bin\Debug\Photographers.exe.config
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\Photographers\obj\Debug\Photographers.exe
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\Photographers\obj\Debug\Photographers.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\Photographers\bin\Debug\Photographers.exe
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\Photographers\bin\Debug\Photographers.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\Photographers\bin\Debug\EntityFramework.dll
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\Photographers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\Photographers\bin\Debug\EntityFramework.xml
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\Photographers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\Photographers\obj\Debug\Photographers.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\Photographers\obj\Debug\Photographers.Migrations.InitialCreate.resources
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\Photographers\obj\Debug\Photographers.csproj.GenerateResource.Cache
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\Photographers\obj\Debug\Photographers.Migrations.Initial.resources
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\Photographers\obj\Debug\Photographers.Migrations.AddedAlbumsNPictures.resources
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\Photographers\obj\Debug\Photographers.Migrations.FixSomeShit.resources
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Relations\EntityFramework Relations\Photographers\obj\Debug\Photographers.Migrations.Tags.resources

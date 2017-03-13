@@ -54,14 +54,64 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Attribute\TagAttribute.cs" />
+    <Compile Include="Migrations\201703131726034_InitialCreate.cs" />
+    <Compile Include="Migrations\201703131726034_InitialCreate.Designer.cs">
+      <DependentUpon>201703131726034_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201703131741372_Initial.cs" />
+    <Compile Include="Migrations\201703131741372_Initial.Designer.cs">
+      <DependentUpon>201703131741372_Initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201703131815019_AddedAlbumsNPictures.cs" />
+    <Compile Include="Migrations\201703131815019_AddedAlbumsNPictures.Designer.cs">
+      <DependentUpon>201703131815019_AddedAlbumsNPictures.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201703131822308_FixSomeShit.cs" />
+    <Compile Include="Migrations\201703131822308_FixSomeShit.Designer.cs">
+      <DependentUpon>201703131822308_FixSomeShit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201703131829393_Tags.cs" />
+    <Compile Include="Migrations\201703131829393_Tags.Designer.cs">
+      <DependentUpon>201703131829393_Tags.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201703131852138_AddOwners.cs" />
+    <Compile Include="Migrations\201703131852138_AddOwners.Designer.cs">
+      <DependentUpon>201703131852138_AddOwners.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Album.cs" />
     <Compile Include="Models\Photographer.cs" />
+    <Compile Include="Models\Picture.cs" />
+    <Compile Include="Models\Tag.cs" />
     <Compile Include="PhotographersDbContext.cs" />
     <Compile Include="Startup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TagTransformer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201703131726034_InitialCreate.resx">
+      <DependentUpon>201703131726034_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703131741372_Initial.resx">
+      <DependentUpon>201703131741372_Initial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703131815019_AddedAlbumsNPictures.resx">
+      <DependentUpon>201703131815019_AddedAlbumsNPictures.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703131822308_FixSomeShit.resx">
+      <DependentUpon>201703131822308_FixSomeShit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703131829393_Tags.resx">
+      <DependentUpon>201703131829393_Tags.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703131852138_AddOwners.resx">
+      <DependentUpon>201703131852138_AddOwners.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
