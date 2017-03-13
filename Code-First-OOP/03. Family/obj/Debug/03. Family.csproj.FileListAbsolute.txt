@@ -6,3 +6,11 @@ C:\Users\Petio\Documents\Visual Studio 2015\Projects\Code-First-OOP\03. Family\b
 C:\Users\Petio\Documents\Visual Studio 2015\Projects\Code-First-OOP\03. Family\bin\Debug\Code-First-OOP.pdb
 C:\Users\Petio\Documents\Visual Studio 2015\Projects\Code-First-OOP\03. Family\obj\Debug\_03.Family.exe
 C:\Users\Petio\Documents\Visual Studio 2015\Projects\Code-First-OOP\03. Family\obj\Debug\_03.Family.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\03. Family\bin\Debug\_03.Family.exe.config
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\03. Family\bin\Debug\_03.Family.exe
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\03. Family\bin\Debug\_03.Family.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\03. Family\bin\Debug\Code-First-OOP.exe
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\03. Family\bin\Debug\Code-First-OOP.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\03. Family\obj\Debug\03. Family.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\03. Family\obj\Debug\_03.Family.exe
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\03. Family\obj\Debug\_03.Family.pdb

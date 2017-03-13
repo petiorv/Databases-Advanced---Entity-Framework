@@ -1,0 +1,6 @@
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\06. Math Utilities\bin\Debug\_06.Math_Utilities.exe.config
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\06. Math Utilities\bin\Debug\_06.Math_Utilities.exe
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\06. Math Utilities\bin\Debug\_06.Math_Utilities.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\06. Math Utilities\obj\Debug\06. Math Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\06. Math Utilities\obj\Debug\_06.Math_Utilities.exe
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\06. Math Utilities\obj\Debug\_06.Math_Utilities.pdb

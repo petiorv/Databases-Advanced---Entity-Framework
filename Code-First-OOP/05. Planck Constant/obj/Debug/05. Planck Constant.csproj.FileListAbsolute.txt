@@ -1,0 +1,6 @@
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\05. Planck Constant\bin\Debug\_05.Planck_Constant.exe.config
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\05. Planck Constant\bin\Debug\_05.Planck_Constant.exe
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\05. Planck Constant\bin\Debug\_05.Planck_Constant.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\05. Planck Constant\obj\Debug\05. Planck Constant.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\05. Planck Constant\obj\Debug\_05.Planck_Constant.exe
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\05. Planck Constant\obj\Debug\_05.Planck_Constant.pdb

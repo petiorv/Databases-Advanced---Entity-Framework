@@ -3,3 +3,9 @@ C:\Users\Petio\Documents\Visual Studio 2015\Projects\Code-First-OOP\Code-First-O
 C:\Users\Petio\Documents\Visual Studio 2015\Projects\Code-First-OOP\Code-First-OOP\obj\Debug\Code-First-OOP.pdb
 C:\Users\Petio\Documents\Visual Studio 2015\Projects\Code-First-OOP\Code-First-OOP\bin\Debug\Code-First-OOP.exe
 C:\Users\Petio\Documents\Visual Studio 2015\Projects\Code-First-OOP\Code-First-OOP\bin\Debug\Code-First-OOP.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\Code-First-OOP\bin\Debug\Code-First-OOP.exe.config
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\Code-First-OOP\bin\Debug\Code-First-OOP.exe
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\Code-First-OOP\bin\Debug\Code-First-OOP.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\Code-First-OOP\obj\Debug\1-2 Persons.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\Code-First-OOP\obj\Debug\Code-First-OOP.exe
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Code-First-OOP\Code-First-OOP\obj\Debug\Code-First-OOP.pdb
