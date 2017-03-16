@@ -1,0 +1,4 @@
+C:\Users\yanislav\Desktop\TestH\BookShopSystem.Models\bin\Debug\BookShopSystem.Models.dll
+C:\Users\yanislav\Desktop\TestH\BookShopSystem.Models\bin\Debug\BookShopSystem.Models.pdb
+C:\Users\yanislav\Desktop\TestH\BookShopSystem.Models\obj\Debug\BookShopSystem.Models.dll
+C:\Users\yanislav\Desktop\TestH\BookShopSystem.Models\obj\Debug\BookShopSystem.Models.pdb
