@@ -1,0 +1,17 @@
+c:\users\petio\documents\visual studio 2015\Projects\AdvancedQuerying\BookShop\bin\Debug\BookShop.exe.config
+c:\users\petio\documents\visual studio 2015\Projects\AdvancedQuerying\BookShop\bin\Debug\BookShop.exe
+c:\users\petio\documents\visual studio 2015\Projects\AdvancedQuerying\BookShop\bin\Debug\BookShop.pdb
+c:\users\petio\documents\visual studio 2015\Projects\AdvancedQuerying\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+c:\users\petio\documents\visual studio 2015\Projects\AdvancedQuerying\BookShop\obj\Debug\BookShop.exe
+c:\users\petio\documents\visual studio 2015\Projects\AdvancedQuerying\BookShop\obj\Debug\BookShop.pdb
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\AdvancedQuerying\BookShop\bin\Debug\EntityFramework.dll
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\AdvancedQuerying\BookShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\AdvancedQuerying\BookShop\bin\Debug\EntityFramework.xml
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\AdvancedQuerying\BookShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\AdvancedQuerying\BookShop\bin\Debug\Import\authors.csv
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\AdvancedQuerying\BookShop\bin\Debug\Import\books.csv
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\AdvancedQuerying\BookShop\bin\Debug\Import\categories.csv
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\AdvancedQuerying\BookShop\bin\Debug\BookShopSystem.Data.dll
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\AdvancedQuerying\BookShop\bin\Debug\BookShopSystem.Models.dll
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\AdvancedQuerying\BookShop\bin\Debug\BookShopSystem.Data.pdb
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\AdvancedQuerying\BookShop\bin\Debug\BookShopSystem.Models.pdb

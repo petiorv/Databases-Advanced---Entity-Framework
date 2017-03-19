@@ -1,0 +1,16 @@
+C:\Users\Petio\Desktop\BookShopSystem\BookShopSystem\obj\Debug\BookShopSystem.Client.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Desktop\BookShopSystem\BookShopSystem\bin\Debug\BookShopSystem.exe.config
+C:\Users\Petio\Desktop\BookShopSystem\BookShopSystem\bin\Debug\BookShopSystem.exe
+C:\Users\Petio\Desktop\BookShopSystem\BookShopSystem\bin\Debug\BookShopSystem.pdb
+C:\Users\Petio\Desktop\BookShopSystem\BookShopSystem\bin\Debug\BookShopSystem.Data.dll
+C:\Users\Petio\Desktop\BookShopSystem\BookShopSystem\bin\Debug\BookShopSytem.Models.dll
+C:\Users\Petio\Desktop\BookShopSystem\BookShopSystem\bin\Debug\EntityFramework.dll
+C:\Users\Petio\Desktop\BookShopSystem\BookShopSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Petio\Desktop\BookShopSystem\BookShopSystem\bin\Debug\BookShopSystem.Data.pdb
+C:\Users\Petio\Desktop\BookShopSystem\BookShopSystem\bin\Debug\BookShopSystem.Data.dll.config
+C:\Users\Petio\Desktop\BookShopSystem\BookShopSystem\bin\Debug\BookShopSytem.Models.pdb
+C:\Users\Petio\Desktop\BookShopSystem\BookShopSystem\bin\Debug\BookShopSytem.Models.dll.config
+C:\Users\Petio\Desktop\BookShopSystem\BookShopSystem\bin\Debug\EntityFramework.xml
+C:\Users\Petio\Desktop\BookShopSystem\BookShopSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Petio\Desktop\BookShopSystem\BookShopSystem\obj\Debug\BookShopSystem.exe
+C:\Users\Petio\Desktop\BookShopSystem\BookShopSystem\obj\Debug\BookShopSystem.pdb
