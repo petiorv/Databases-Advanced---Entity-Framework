@@ -32,3 +32,5 @@ C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\AdvancedQu
 C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\AdvancedQuerying\BookShop\bin\Debug\BookShopSystem.Models.pdb
 C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\AdvancedQuerying\BookShop\bin\Debug\EntityFramework.xml
 C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\AdvancedQuerying\BookShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\AdvancedQuerying\BookShop\bin\Debug\EntityFramework.Extended.dll
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\AdvancedQuerying\BookShop\bin\Debug\EntityFramework.Extended.xml

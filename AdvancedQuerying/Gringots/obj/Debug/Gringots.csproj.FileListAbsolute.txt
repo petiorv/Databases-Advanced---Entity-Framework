@@ -1,0 +1,6 @@
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\AdvancedQuerying\Gringots\bin\Debug\Gringots.exe.config
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\AdvancedQuerying\Gringots\bin\Debug\Gringots.exe
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\AdvancedQuerying\Gringots\bin\Debug\Gringots.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\AdvancedQuerying\Gringots\obj\Debug\Gringots.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\AdvancedQuerying\Gringots\obj\Debug\Gringots.exe
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\AdvancedQuerying\Gringots\obj\Debug\Gringots.pdb
