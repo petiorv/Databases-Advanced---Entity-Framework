@@ -50,6 +50,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BookSystemDbContext.cs" />
+    <Compile Include="Migrations\201703161252139_Import.cs" />
+    <Compile Include="Migrations\201703161252139_Import.Designer.cs">
+      <DependentUpon>201703161252139_Import.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -71,6 +75,11 @@
       <Project>{E1DD9C44-4993-4A25-939B-DD8A41056CCC}</Project>
       <Name>BookShopSystem.Models</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201703161252139_Import.resx">
+      <DependentUpon>201703161252139_Import.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -12,7 +12,7 @@
 
             var context = new BookSystemDbContext();
 
-            SetupBooksRelatedBooks(context);
+            //SetupBooksRelatedBooks(context);
 
             PrintBooksWithRelatedBooks(context);
         }

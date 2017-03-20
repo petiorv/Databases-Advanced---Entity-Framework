@@ -2,3 +2,8 @@ C:\Users\yanislav\Desktop\TestH\BookShopSystem.Models\bin\Debug\BookShopSystem.M
 C:\Users\yanislav\Desktop\TestH\BookShopSystem.Models\bin\Debug\BookShopSystem.Models.pdb
 C:\Users\yanislav\Desktop\TestH\BookShopSystem.Models\obj\Debug\BookShopSystem.Models.dll
 C:\Users\yanislav\Desktop\TestH\BookShopSystem.Models\obj\Debug\BookShopSystem.Models.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Relations(Advanced)\BookShopSystem.Models\bin\Debug\BookShopSystem.Models.dll
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Relations(Advanced)\BookShopSystem.Models\bin\Debug\BookShopSystem.Models.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Relations(Advanced)\BookShopSystem.Models\obj\Debug\BookShopSystem.Models.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Relations(Advanced)\BookShopSystem.Models\obj\Debug\BookShopSystem.Models.dll
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Relations(Advanced)\BookShopSystem.Models\obj\Debug\BookShopSystem.Models.pdb
