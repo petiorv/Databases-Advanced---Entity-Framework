@@ -15,3 +15,6 @@ C:\Users\Petio\Documents\Visual Studio 2015\Projects\AdvancedQuerying\BookShop\b
 C:\Users\Petio\Documents\Visual Studio 2015\Projects\AdvancedQuerying\BookShop\bin\Debug\BookShopSystem.Models.dll
 C:\Users\Petio\Documents\Visual Studio 2015\Projects\AdvancedQuerying\BookShop\bin\Debug\BookShopSystem.Data.pdb
 C:\Users\Petio\Documents\Visual Studio 2015\Projects\AdvancedQuerying\BookShop\bin\Debug\BookShopSystem.Models.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\AdvancedQuerying\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\AdvancedQuerying\BookShop\obj\Debug\BookShop.exe
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\AdvancedQuerying\BookShop\obj\Debug\BookShop.pdb
