@@ -3,3 +3,8 @@ C:\Users\yanislav\Desktop\GR\CSharpDBFundamentals\DatabasesAdvanced-EntityFramew
 C:\Users\yanislav\Desktop\GR\CSharpDBFundamentals\DatabasesAdvanced-EntityFramework-February2017\RelationsAdvanved\BookShopSystem.Models\obj\Debug\BookShopSystem.Models.csprojResolveAssemblyReference.cache
 C:\Users\yanislav\Desktop\GR\CSharpDBFundamentals\DatabasesAdvanced-EntityFramework-February2017\RelationsAdvanved\BookShopSystem.Models\obj\Debug\BookShopSystem.Models.dll
 C:\Users\yanislav\Desktop\GR\CSharpDBFundamentals\DatabasesAdvanced-EntityFramework-February2017\RelationsAdvanved\BookShopSystem.Models\obj\Debug\BookShopSystem.Models.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\AdvancedQuerying\BookShopSystem.Models\bin\Debug\BookShopSystem.Models.dll
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\AdvancedQuerying\BookShopSystem.Models\bin\Debug\BookShopSystem.Models.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\AdvancedQuerying\BookShopSystem.Models\obj\Debug\BookShopSystem.Models.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\AdvancedQuerying\BookShopSystem.Models\obj\Debug\BookShopSystem.Models.dll
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\AdvancedQuerying\BookShopSystem.Models\obj\Debug\BookShopSystem.Models.pdb

@@ -60,11 +60,11 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\Desktop\Books\BookShopSystem.Data\BookShopSystem.Data.csproj">
+    <ProjectReference Include="..\BookShopSystem.Data\BookShopSystem.Data.csproj">
       <Project>{57aec075-ddc6-435b-bb61-653e25ac054f}</Project>
       <Name>BookShopSystem.Data</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\..\..\Desktop\Books\BookShopSystem.Models\BookShopSystem.Models.csproj">
+    <ProjectReference Include="..\BookShopSystem.Models\BookShopSystem.Models.csproj">
       <Project>{e1dd9c44-4993-4a25-939b-dd8a41056ccc}</Project>
       <Name>BookShopSystem.Models</Name>
     </ProjectReference>
