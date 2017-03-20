@@ -8,3 +8,13 @@ C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\AdvancedQu
 C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\AdvancedQuerying\SoftUni\obj\Debug\SoftUni.csprojResolveAssemblyReference.cache
 C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\AdvancedQuerying\SoftUni\obj\Debug\SoftUni.exe
 C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\AdvancedQuerying\SoftUni\obj\Debug\SoftUni.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\AdvancedQuerying\SoftUni\bin\Debug\SoftUni.exe.config
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\AdvancedQuerying\SoftUni\obj\Debug\SoftUni.exe
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\AdvancedQuerying\SoftUni\obj\Debug\SoftUni.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\AdvancedQuerying\SoftUni\obj\Debug\SoftUni.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\AdvancedQuerying\SoftUni\bin\Debug\SoftUni.exe
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\AdvancedQuerying\SoftUni\bin\Debug\SoftUni.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\AdvancedQuerying\SoftUni\bin\Debug\EntityFramework.dll
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\AdvancedQuerying\SoftUni\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\AdvancedQuerying\SoftUni\bin\Debug\EntityFramework.xml
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\AdvancedQuerying\SoftUni\bin\Debug\EntityFramework.SqlServer.xml
