@@ -1,0 +1,5 @@
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Best Practices and Architecture\PhotoShare.Models\bin\Debug\PhotoShare.Models.dll
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Best Practices and Architecture\PhotoShare.Models\bin\Debug\PhotoShare.Models.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Best Practices and Architecture\PhotoShare.Models\obj\Debug\PhotoShare.Models.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Best Practices and Architecture\PhotoShare.Models\obj\Debug\PhotoShare.Models.dll
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Best Practices and Architecture\PhotoShare.Models\obj\Debug\PhotoShare.Models.pdb
