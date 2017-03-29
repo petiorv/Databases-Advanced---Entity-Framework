@@ -2,11 +2,11 @@
 {
     using PhotoShare.Service;
 
-    class UserServiceMock : UserService
+    public class UserServiceMock : UserService
     {
         public override void Add(string username, string password, string email)
         {
-           
+            
         }
     }
 }

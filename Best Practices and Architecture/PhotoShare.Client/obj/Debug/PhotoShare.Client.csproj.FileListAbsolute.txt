@@ -10,3 +10,7 @@ C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-
 C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Best Practices and Architecture\PhotoShare.Client\obj\Debug\PhotoShare.Client.csprojResolveAssemblyReference.cache
 C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Best Practices and Architecture\PhotoShare.Client\obj\Debug\PhotoShare.Client.exe
 C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Best Practices and Architecture\PhotoShare.Client\obj\Debug\PhotoShare.Client.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Best Practices and Architecture\PhotoShare.Client\bin\Debug\PhotoShare.Client.exe.config
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Best Practices and Architecture\PhotoShare.Client\obj\Debug\PhotoShare.Client.exe
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Best Practices and Architecture\PhotoShare.Client\obj\Debug\PhotoShare.Client.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Best Practices and Architecture\PhotoShare.Client\obj\Debug\PhotoShare.Client.csprojResolveAssemblyReference.cache

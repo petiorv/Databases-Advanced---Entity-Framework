@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 namespace PhotoShare.Service
 {
+    using Client;
     using PhotoShare.Models;
 
     public class UserService
@@ -16,7 +17,7 @@ namespace PhotoShare.Service
                 IsDeleted = false,
                 RegisteredOn = DateTime.Now,
                 LastTimeLoggedIn = DateTime.Now
-            };
+            }; 
 
             using (PhotoShareContext context = new PhotoShareContext())
             {

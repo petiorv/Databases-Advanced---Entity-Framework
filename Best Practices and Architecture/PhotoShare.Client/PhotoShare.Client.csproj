@@ -77,6 +77,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\PhotoShare.Models\PhotoShare.Models.csproj">
+      <Project>{1F36AF83-9C71-4A06-9345-2E1F9350EC6D}</Project>
+      <Name>PhotoShare.Models</Name>
+    </ProjectReference>
     <ProjectReference Include="..\PhotoShare.Service\PhotoShare.Service.csproj">
       <Project>{e1066a1e-2b87-4cde-ad73-1b5de5dcfb87}</Project>
       <Name>PhotoShare.Service</Name>

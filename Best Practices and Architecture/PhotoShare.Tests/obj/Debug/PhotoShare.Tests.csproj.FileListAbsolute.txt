@@ -13,3 +13,6 @@ C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-
 C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Best Practices and Architecture\PhotoShare.Tests\obj\Debug\PhotoShare.Tests.pdb
 C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Best Practices and Architecture\PhotoShare.Tests\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\Best Practices and Architecture\PhotoShare.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Best Practices and Architecture\PhotoShare.Tests\obj\Debug\PhotoShare.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Best Practices and Architecture\PhotoShare.Tests\obj\Debug\PhotoShare.Tests.dll
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Best Practices and Architecture\PhotoShare.Tests\obj\Debug\PhotoShare.Tests.pdb
