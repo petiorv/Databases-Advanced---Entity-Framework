@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "Adult",
+    "ProductsCount": 1
+  },
+  {
+    "Name": "Autoparts",
+    "ProductsCount": 1
+  },
+  {
+    "Name": "Business",
+    "ProductsCount": 0
+  },
+  {
+    "Name": "Drugs",
+    "ProductsCount": 0
+  },
+  {
+    "Name": "Electronics",
+    "ProductsCount": 1
+  },
+  {
+    "Name": "Fashion",
+    "ProductsCount": 1
+  },
+  {
+    "Name": "For Children",
+    "ProductsCount": 1
+  },
+  {
+    "Name": "Garden",
+    "ProductsCount": 0
+  },
+  {
+    "Name": "Other",
+    "ProductsCount": 1
+  },
+  {
+    "Name": "Sports",
+    "ProductsCount": 0
+  },
+  {
+    "Name": "Weapons",
+    "ProductsCount": 1
+  }
+]

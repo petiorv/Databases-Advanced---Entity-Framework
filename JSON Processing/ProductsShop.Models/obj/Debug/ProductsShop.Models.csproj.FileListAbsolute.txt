@@ -8,3 +8,13 @@ c:\users\petio\documents\visual studio 2015\Projects\JSON Processing\ProductsSho
 c:\users\petio\documents\visual studio 2015\Projects\JSON Processing\ProductsShop.Models\obj\Debug\ProductsShop.Models.csprojResolveAssemblyReference.cache
 c:\users\petio\documents\visual studio 2015\Projects\JSON Processing\ProductsShop.Models\obj\Debug\ProductsShop.Models.dll
 c:\users\petio\documents\visual studio 2015\Projects\JSON Processing\ProductsShop.Models\obj\Debug\ProductsShop.Models.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\JSON Processing\ProductsShop.Models\bin\Debug\ProductsShop.Models.dll.config
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\JSON Processing\ProductsShop.Models\bin\Debug\ProductsShop.Models.dll
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\JSON Processing\ProductsShop.Models\bin\Debug\ProductsShop.Models.pdb
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\JSON Processing\ProductsShop.Models\bin\Debug\EntityFramework.dll
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\JSON Processing\ProductsShop.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\JSON Processing\ProductsShop.Models\bin\Debug\EntityFramework.xml
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\JSON Processing\ProductsShop.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\JSON Processing\ProductsShop.Models\obj\Debug\ProductsShop.Models.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\JSON Processing\ProductsShop.Models\obj\Debug\ProductsShop.Models.dll
+C:\Users\Petio\Documents\GitHub\Databases-Advanced---Entity-Framework\Databases-Advanced---Entity-Framework\JSON Processing\ProductsShop.Models\obj\Debug\ProductsShop.Models.pdb

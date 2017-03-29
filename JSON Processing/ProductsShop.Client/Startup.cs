@@ -21,7 +21,83 @@ namespace ProductsShop.Client
             //ImportCategories(context);
 
             //ExportProductInRange(context);
+            //ExportSuccefullySoldProducts(context);
+            CategoriesByProducts(context);
+            //UsersAndProducts(context);
 
+        }
+
+        private static void UsersAndProducts(ProductShopContext context)
+        {
+            var usersAndProducts = new
+            {
+                UsersCount = context.Users.Count(),
+                Users = context.Users
+                    .Select(u => new
+                    {
+                        u.FirstName,
+                        u.LastName,
+                        u.Age,
+                        SoldProducts = new
+                        {
+                            Count = u.SoldProducts.Count(),
+                            Products = u.SoldProducts.Select(p => new
+                            {
+                                p.Name,
+                                p.Price
+                            })
+                        }
+                    })
+            };
+
+            var usersAndProductsAsJson = JsonConvert.SerializeObject(usersAndProducts, Formatting.Indented);
+
+            WriteToFile("users-and-products.json", usersAndProductsAsJson);
+
+            Console.WriteLine(usersAndProductsAsJson);
+        }
+
+        private static void CategoriesByProducts(ProductShopContext context)
+        {
+            
+            var categories = context.Categories
+                .Select(c => new
+                {
+                    Name = c.Name,
+                    ProductsCount = c.Products.Count(),
+                    AveragePrice = c.Products.Average(p => p.Price),
+                    TotalRevenue = c.Products.Sum(p => p.Price)
+                })
+                .OrderBy(c => c.Name)
+                .ToList();
+
+            var categoriesAsJson = JsonConvert.SerializeObject(categories, Formatting.Indented);
+
+            WriteToFile("categories-by-products.json", categoriesAsJson);
+
+            Console.WriteLine(categoriesAsJson);
+        }
+
+        private static void ExportSuccefullySoldProducts(ProductShopContext context)
+        {
+            var user = context.Users
+                .Include("SoldProducts")
+                .Where(u => u.SoldProducts.Count() >= 1)
+                .Select(u => new
+                {
+                    FirstName = u.FirstName,
+                    LastName = u.LastName,
+                    Age = u.Age,
+                    SoldProductCount = u.SoldProducts.Count(),
+                    SoldProduct = u.SoldProducts.Select(p => new
+                    {
+                        Name = p.Name,
+                        Price = p.Price
+                    })
+                });
+            var succefullySoldProducts = JsonConvert.SerializeObject(user);
+
+            WriteToFile("succefully-Sold-Products.json", succefullySoldProducts);
         }
 
         private static void ExportProductInRange(ProductShopContext context)

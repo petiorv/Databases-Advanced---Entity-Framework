@@ -9,11 +9,6 @@ namespace ProductsShop.Models
     using System.Threading.Tasks;
     public class User
     {
-        public User()
-        {
-            this.Friends = new List<User>();
-            this.SoldProducts = new List<Product>();
-        }
         public int Id { get; set; }
         public string FirstName { get; set; }
 
@@ -21,8 +16,8 @@ namespace ProductsShop.Models
         public string LastName { get; set; }
         public int? Age { get; set; }
 
-        public ICollection<Product> SoldProducts { get; set; }
-        public ICollection<Product> BoldProducts { get; set; }
-        public virtual ICollection<User> Friends { get; set; }
+        public ICollection<Product> SoldProducts { get; set; } = new HashSet<Product>();
+        public ICollection<Product> BoughtProducts { get; set; } = new HashSet<Product>();
+        public virtual ICollection<User> Friends { get; set; } = new HashSet<User>();
     }
 }
