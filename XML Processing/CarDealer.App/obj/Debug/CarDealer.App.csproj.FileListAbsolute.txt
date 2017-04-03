@@ -1,0 +1,14 @@
+C:\Users\Petio\Desktop\xml\CarDealer.App\bin\Debug\CarDealer.App.exe.config
+C:\Users\Petio\Desktop\xml\CarDealer.App\bin\Debug\CarDealer.App.exe
+C:\Users\Petio\Desktop\xml\CarDealer.App\bin\Debug\CarDealer.App.pdb
+C:\Users\Petio\Desktop\xml\CarDealer.App\bin\Debug\CarDealer.Data.dll
+C:\Users\Petio\Desktop\xml\CarDealer.App\bin\Debug\CarDealer.Models.dll
+C:\Users\Petio\Desktop\xml\CarDealer.App\bin\Debug\EntityFramework.dll
+C:\Users\Petio\Desktop\xml\CarDealer.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Petio\Desktop\xml\CarDealer.App\bin\Debug\CarDealer.Data.pdb
+C:\Users\Petio\Desktop\xml\CarDealer.App\bin\Debug\CarDealer.Models.pdb
+C:\Users\Petio\Desktop\xml\CarDealer.App\bin\Debug\EntityFramework.xml
+C:\Users\Petio\Desktop\xml\CarDealer.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Petio\Desktop\xml\CarDealer.App\obj\Debug\CarDealer.App.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Desktop\xml\CarDealer.App\obj\Debug\CarDealer.App.exe
+C:\Users\Petio\Desktop\xml\CarDealer.App\obj\Debug\CarDealer.App.pdb

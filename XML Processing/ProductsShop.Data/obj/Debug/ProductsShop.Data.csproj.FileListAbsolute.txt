@@ -1,0 +1,12 @@
+C:\Users\Petio\Desktop\xml\ProductsShop.Data\bin\Debug\ProductsShop.Data.dll.config
+C:\Users\Petio\Desktop\xml\ProductsShop.Data\bin\Debug\ProductsShop.Data.dll
+C:\Users\Petio\Desktop\xml\ProductsShop.Data\bin\Debug\ProductsShop.Data.pdb
+C:\Users\Petio\Desktop\xml\ProductsShop.Data\bin\Debug\EntityFramework.dll
+C:\Users\Petio\Desktop\xml\ProductsShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Petio\Desktop\xml\ProductsShop.Data\bin\Debug\ProductsShop.Models.dll
+C:\Users\Petio\Desktop\xml\ProductsShop.Data\bin\Debug\ProductsShop.Models.pdb
+C:\Users\Petio\Desktop\xml\ProductsShop.Data\bin\Debug\EntityFramework.xml
+C:\Users\Petio\Desktop\xml\ProductsShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Petio\Desktop\xml\ProductsShop.Data\obj\Debug\ProductsShop.Data.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Desktop\xml\ProductsShop.Data\obj\Debug\ProductsShop.Data.dll
+C:\Users\Petio\Desktop\xml\ProductsShop.Data\obj\Debug\ProductsShop.Data.pdb

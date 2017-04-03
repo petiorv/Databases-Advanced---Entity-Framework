@@ -1,0 +1,14 @@
+C:\Users\Petio\Desktop\xml\ProductsShop\bin\Debug\ProductsShop.exe.config
+C:\Users\Petio\Desktop\xml\ProductsShop\bin\Debug\ProductsShop.exe
+C:\Users\Petio\Desktop\xml\ProductsShop\bin\Debug\ProductsShop.pdb
+C:\Users\Petio\Desktop\xml\ProductsShop\bin\Debug\EntityFramework.dll
+C:\Users\Petio\Desktop\xml\ProductsShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Petio\Desktop\xml\ProductsShop\bin\Debug\ProductsShop.Data.dll
+C:\Users\Petio\Desktop\xml\ProductsShop\bin\Debug\ProductsShop.Models.dll
+C:\Users\Petio\Desktop\xml\ProductsShop\bin\Debug\ProductsShop.Data.pdb
+C:\Users\Petio\Desktop\xml\ProductsShop\bin\Debug\ProductsShop.Models.pdb
+C:\Users\Petio\Desktop\xml\ProductsShop\bin\Debug\EntityFramework.xml
+C:\Users\Petio\Desktop\xml\ProductsShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Petio\Desktop\xml\ProductsShop\obj\Debug\ProductsShop.App.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Desktop\xml\ProductsShop\obj\Debug\ProductsShop.exe
+C:\Users\Petio\Desktop\xml\ProductsShop\obj\Debug\ProductsShop.pdb

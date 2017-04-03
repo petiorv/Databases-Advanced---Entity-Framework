@@ -1,0 +1,5 @@
+C:\Users\Petio\Desktop\xml\ProductsShop.Models\bin\Debug\ProductsShop.Models.dll
+C:\Users\Petio\Desktop\xml\ProductsShop.Models\bin\Debug\ProductsShop.Models.pdb
+C:\Users\Petio\Desktop\xml\ProductsShop.Models\obj\Debug\ProductsShop.Models.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Desktop\xml\ProductsShop.Models\obj\Debug\ProductsShop.Models.dll
+C:\Users\Petio\Desktop\xml\ProductsShop.Models\obj\Debug\ProductsShop.Models.pdb

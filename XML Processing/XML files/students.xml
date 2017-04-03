@@ -1,0 +1,69 @@
+<student>
+    <name>Petio</name>
+    <gender>Male</gender>
+    <birthDate>1992/10/23</birthDate>
+    <phoneNumber>0888123456</phoneNumber>
+    <email>petio@softuni.bg</email>
+    <university>Software University</university>
+    <specialty>C# Web Developer</specialty>
+    <facultyNumber>123456789</facultyNumber>
+    <exams>
+        <exam>Programing Basic</exam>
+        <dateTaken>2017/01/01</dateTaken>
+        <grade>6.0</grade>  
+        <exam>Js Advanced</exam>
+        <dateTaken>2017/02/02</dateTaken>
+        <grade>6.0</grade> 
+        <exam>Web Technologies</exam>
+        <dateTaken>2017/03/03</dateTaken>
+        <grade>6.0</grade> 
+        <exam>Js Application</exam>
+        <dateTaken>2017/04/04</dateTaken>
+        <grade>6.0</grade>           
+    </exams>
+</student>
+<student>
+    <name>Stamat</name>
+    <gender>Male</gender>
+    <birthDate>1996/02/03</birthDate>
+    <phoneNumber>0888123456</phoneNumber>
+    <email>Stamat@softuni.bg</email>
+    <university>Software University</university>
+    <specialty>Javascript Developer</specialty>
+    <facultyNumber>123456789</facultyNumber>
+    <exams>
+        <exam>Programing Basic</exam>
+        <dateTaken>2017/01/01</dateTaken>
+        <grade>6.0</grade>            
+    </exams>
+</student>
+<student>
+    <name>Ivan</name>
+    <gender>Male</gender>
+    <birthDate>1992/09/28</birthDate>
+    <phoneNumber>0888123456</phoneNumber>
+    <email>Ivan@softuni.bg</email>
+    <university>Software University</university>
+    <specialty>C# Web Developer</specialty>
+    <facultyNumber>31241241</facultyNumber>
+    <exams>
+        <exam>Programing Basic</exam>
+        <dateTaken>2017/01/01</dateTaken>
+        <grade>6.0</grade>            
+    </exams>
+</student>
+<student>
+    <name>Peci</name>
+    <gender>Male</gender>
+    <birthDate>1892/10/23</birthDate>
+    <phoneNumber>0888123456</phoneNumber>
+    <email>peci@softuni.bg</email>
+    <university>Software University</university>
+    <specialty>C# Web Developer</specialty>
+    <facultyNumber>123456789</facultyNumber>
+    <exams>
+        <exam>Programing Basic</exam>
+        <dateTaken>2017/01/01</dateTaken>
+        <grade>6.0</grade>            
+    </exams>
+</student>

@@ -1,0 +1,4 @@
+C:\Users\Petio\Desktop\xml\CarDealer.Models\bin\Debug\CarDealer.Models.dll
+C:\Users\Petio\Desktop\xml\CarDealer.Models\bin\Debug\CarDealer.Models.pdb
+C:\Users\Petio\Desktop\xml\CarDealer.Models\obj\Debug\CarDealer.Models.dll
+C:\Users\Petio\Desktop\xml\CarDealer.Models\obj\Debug\CarDealer.Models.pdb
