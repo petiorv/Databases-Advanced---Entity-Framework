@@ -1,0 +1,5 @@
+c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Models\bin\Debug\ExamPrep.Models.dll
+c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Models\bin\Debug\ExamPrep.Models.pdb
+c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Models\obj\Debug\ExamPrep.Models.csprojResolveAssemblyReference.cache
+c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Models\obj\Debug\ExamPrep.Models.dll
+c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Models\obj\Debug\ExamPrep.Models.pdb

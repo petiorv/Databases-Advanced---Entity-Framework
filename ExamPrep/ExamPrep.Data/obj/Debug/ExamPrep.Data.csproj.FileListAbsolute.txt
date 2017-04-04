@@ -1,0 +1,12 @@
+c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Data\bin\Debug\ExamPrep.Data.dll.config
+c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Data\bin\Debug\ExamPrep.Data.dll
+c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Data\bin\Debug\ExamPrep.Data.pdb
+c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Data\bin\Debug\EntityFramework.dll
+c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Data\bin\Debug\ExamPrep.Models.dll
+c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Data\bin\Debug\ExamPrep.Models.pdb
+c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Data\bin\Debug\EntityFramework.xml
+c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Data\obj\Debug\ExamPrep.Data.csprojResolveAssemblyReference.cache
+c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Data\obj\Debug\ExamPrep.Data.dll
+c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Data\obj\Debug\ExamPrep.Data.pdb
