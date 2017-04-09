@@ -1,0 +1,16 @@
+C:\Users\Petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Imports\bin\Debug\ExamPrep.Imports.exe.config
+C:\Users\Petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Imports\bin\Debug\ExamPrep.Imports.exe
+C:\Users\Petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Imports\bin\Debug\ExamPrep.Imports.pdb
+C:\Users\Petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Imports\bin\Debug\ExamPrep.Data.dll
+C:\Users\Petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Imports\bin\Debug\ExamPrep.Models.dll
+C:\Users\Petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Imports\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Imports\bin\Debug\EntityFramework.dll
+C:\Users\Petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Imports\bin\Debug\ExamPrep.Data.pdb
+C:\Users\Petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Imports\bin\Debug\ExamPrep.Models.pdb
+C:\Users\Petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Imports\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Imports\bin\Debug\EntityFramework.xml
+C:\Users\Petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Imports\obj\Debug\ExamPrep.Imports.csprojResolveAssemblyReference.cache
+C:\Users\Petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Imports\obj\Debug\ExamPrep.Imports.exe
+C:\Users\Petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Imports\obj\Debug\ExamPrep.Imports.pdb
+C:\Users\Petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Imports\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Imports\bin\Debug\EntityFramework.SqlServer.xml

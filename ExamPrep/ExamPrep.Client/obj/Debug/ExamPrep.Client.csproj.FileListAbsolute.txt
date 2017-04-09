@@ -10,3 +10,4 @@ c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Client\bi
 c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Client\obj\Debug\ExamPrep.Client.csprojResolveAssemblyReference.cache
 c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Client\obj\Debug\ExamPrep.Client.exe
 c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Client\obj\Debug\ExamPrep.Client.pdb
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\ExamPrep\ExamPrep.Client\bin\Debug\ExamPrep.Data.dll.config

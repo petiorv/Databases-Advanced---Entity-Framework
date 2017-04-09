@@ -32,11 +32,9 @@
   <ItemGroup>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
-      <Private>True</Private>
     </Reference>
     <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
-      <Private>True</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
@@ -51,9 +49,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Dto\AnomalyWithVictimsDto.cs" />
+    <Compile Include="Dto\AnomalyDto.cs" />
+    <Compile Include="Dto\PersonDto.cs" />
+    <Compile Include="Dto\PlanetDto.cs" />
+    <Compile Include="Dto\SolarSystemDto.cs" />
+    <Compile Include="Dto\StarDto.cs" />
+    <Compile Include="Dto\VictimDto.cs" />
     <Compile Include="MassDefectEntities.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Store\AnomalyStore.cs" />
+    <Compile Include="Store\PersonStore.cs" />
+    <Compile Include="Store\PlanetStore.cs" />
+    <Compile Include="Store\SolarSystemStore.cs" />
+    <Compile Include="Store\StarStore.cs" />
     <Compile Include="Utility.cs" />
   </ItemGroup>
   <ItemGroup>

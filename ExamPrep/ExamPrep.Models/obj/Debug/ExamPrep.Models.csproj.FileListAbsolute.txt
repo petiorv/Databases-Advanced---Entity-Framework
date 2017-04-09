@@ -3,3 +3,8 @@ c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Models\bi
 c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Models\obj\Debug\ExamPrep.Models.csprojResolveAssemblyReference.cache
 c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Models\obj\Debug\ExamPrep.Models.dll
 c:\users\petio\documents\visual studio 2015\Projects\ExamPrep\ExamPrep.Models\obj\Debug\ExamPrep.Models.pdb
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\ExamPrep\ExamPrep.Models\bin\Debug\ExamPrep.Models.dll.config
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\ExamPrep\ExamPrep.Models\bin\Debug\EntityFramework.dll
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\ExamPrep\ExamPrep.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\ExamPrep\ExamPrep.Models\bin\Debug\EntityFramework.xml
+C:\Users\Petio\Documents\Visual Studio 2015\Projects\ExamPrep\ExamPrep.Models\bin\Debug\EntityFramework.SqlServer.xml
